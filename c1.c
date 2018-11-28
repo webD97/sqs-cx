@@ -15,10 +15,10 @@ int factorial(int number) {
 }
 
 /**
- * 
+ *
  * 100% C1-Abdeckung mit zwei Testfällen:
- * 
- * factorial(1)
+ *
+ * factorial(-1)
  * factorial(0)
- * 
+ *
  */
